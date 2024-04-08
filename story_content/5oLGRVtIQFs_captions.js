@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.77.30587.0%0D%0A%0D%0A00:00:00.046%20--%3E%2000:00:04.937%0D%0ABetween%20March%20and%20October,%20deliveries%20to%20this%20area%20are%20made%20using%20Mountain%20Daylight%20Time.%20%0D%0A%0D%0A"}')

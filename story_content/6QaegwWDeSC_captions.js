@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.77.30587.0%0D%0A%0D%0A00:00:00.038%20--%3E%2000:00:05.016%0D%0Aand%20understand%20the%20general%20weather%20of%20the%20United%20States,%20its%20effects,%20and%20general%20weather%20terms.%0D%0A%0D%0A"}')

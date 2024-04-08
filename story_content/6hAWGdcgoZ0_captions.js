@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.77.30587.0%0D%0A%0D%0A00:00:00.086%20--%3E%2000:00:04.075%0D%0AIdentify%20general%20information%20about%20the%20size%20and%20location%20of%20the%20United%20States.%0D%0A%0D%0A"}')

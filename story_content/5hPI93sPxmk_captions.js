@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.78.30680.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:04.545%0D%0AThe%20District%20of%20Columbia%20is%20not%20a%20state,%20and%20is%20situated%20between%20Maryland%20and%20Virginia.%0D%0A%0D%0A"}')

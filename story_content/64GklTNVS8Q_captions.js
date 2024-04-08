@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.77.30587.0%0D%0A%0D%0A00:00:00.006%20--%3E%2000:00:02.691%0D%0AThe%20Atlantic%20and%20Gulf%20of%20Mexico%20coasts%20of%20the%20U.S.%20%0D%0A%0D%0A"}')

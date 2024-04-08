@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.77.30587.0%0D%0A%0D%0A00:00:00.000%20--%3E%2000:00:04.571%0D%0ACongratulations!%20You%20have%20completed%20the%20%3Ci%3EUnderstanding%20US%20Geography%20%3C/i%3Elesson.%20%0D%0A%0D%0A"}')
